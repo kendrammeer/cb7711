@@ -1,5 +1,5 @@
 #If ggplot2 package is not installed on your are (error with library(ggplot2) command), run comment below to install the package
-#install.packages("ggplot2")
+install.packages("ggplot2")
 
 #Import ggplot2 from the package library
 library(ggplot2)
